@@ -2,7 +2,7 @@
 
 An advanced WhatsApp automation bot built for real Android phones. This system enables bulk messaging, auto-replies, group interaction, and media sharing — all while mimicking real user behavior to stay undetected. Runs 100% wirelessly with full proxy support and multi-account handling, without relying on ADB or emulators.
 
-We’re the team behind Appilot. We’ve helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates or performance-based options depending on your goals.
+We’re the team behind Appilot. We are a software development agency who helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates as well as hourly rates for fixed projects.
 
 
 ### 🔁 Full WhatsApp Messaging Automation
