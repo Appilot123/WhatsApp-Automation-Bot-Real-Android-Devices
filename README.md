@@ -116,6 +116,11 @@ Built for privacy, account safety, and scale — supports wireless execution, pr
 | **Analytics & Reporting (Planned)**    | Track replies, open rates, delivery success, and group engagement.                                             |
 
 
+### 📊 Key Stats
+- Sends thousands of automated messages daily
+- Achieves <1% detection rate
+- Scales across 100+ real Android devices
+
 ### 🧠 Built by Appilot
 This bot is developed and maintained by the team behind [Appilot](https://www.appilot.com) — a powerful automation platform built for real mobile devices (Android & iOS) and emulators.
 Appilot powers automation for over 70,000 devices, enabling safe, scalable control over Instagram, Reddit, TikTok, and more — all without ADB or wires. Our web-based dashboard lets you automate your devices from anywhere, anytime.
